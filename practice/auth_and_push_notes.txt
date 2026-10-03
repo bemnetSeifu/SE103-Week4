@@ -1,0 +1,16 @@
+Student Name: Bemnet Kebede
+GitHub Username: bemnetSeifu
+
+Authentication method I used: PAT
+
+Why I chose this method:
+I chose a PAT because it allows me to authenticate securely when using Git over HTTPS. It was also the authentication method I set up for this repository.
+
+One security habit I must follow with this method:
+I must keep my PAT private and never share it with anyone or commit it into a repository. If the token is exposed, I should revoke it and create a new one.
+
+Difference between a commit and a push:
+A commit saves staged changes to the local Git history. A push sends those local commits to a remote repository such as GitHub. A commit can be created without an internet connection, while a push requires a connection to the remote repository. Pushing allows other people and services to access the commits on GitHub.
+
+My repository URL:
+https://github.com/bemnetSeifu/SE103-Week4
