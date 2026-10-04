@@ -1,0 +1,10 @@
+Student Name: Bemnet Kebede
+
+Which phrases were too vague:
+The phrases "Get student scores," "Check them," "Find who failed," and "Show result" were too vague. They do not explain what should happen to the scores or what counts as a failing score.
+
+How I made each vague part specific:
+I specified that the input is a list of student scores. I defined a failing score as any score less than 50. I replaced "Check them" with a loop that examines each score and a decision that checks whether the score is less than 50. I also explained that the program should output the failing scores or "No one failed" if there are no failing scores.
+
+Why refinement matters before coding:
+Refinement makes the steps clear enough to turn into code without guessing what each instruction means. It also helps identify missing cases, such as when no student has failed.
