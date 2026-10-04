@@ -1,0 +1,16 @@
+Student Name: Bemnet Kebede
+Sample Input: [4, 15, 10, 22, 8]
+
+Step-by-step trace:
+1. Start with count = 0.
+2. Check 4: it is not greater than 10, so count stays 0.
+3. Check 15: it is greater than 10, so count becomes 1.
+4. Check 10: it is not greater than 10, so count stays 1.
+5. Check 22: it is greater than 10, so count becomes 2.
+6. Check 8: it is not greater than 10, so count stays 2.
+7. The list has been checked, so the final count is 2.
+
+Final output: 2
+
+Empty list input: []
+Empty list result: Error: list is empty
