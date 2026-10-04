@@ -1,0 +1,35 @@
+Student Name: Bemnet Kebede
+
+Problem:
+I want to follow a consistent morning routine that gets me ready for a run and helps me start the day.
+
+Input:
+My running clothes, headphones, running shoes, and enough time for the morning routine.
+
+Output:
+I complete my morning run and return home ready to shower and have breakfast.
+
+Edge Case Handled:
+If it is raining heavily, I skip the outdoor run and do a short indoor workout instead.
+
+Pseudocode:
+START
+1. Wake up and get out of bed.
+2. Change into running clothes.
+3. Stretch for a few minutes.
+4. Check the weather.
+5. IF it is raining heavily THEN
+      Do a short indoor workout.
+   ELSE
+      Put on my headphones and running shoes.
+      Go outside and run.
+6. Return home.
+7. Take a shower.
+8. Have breakfast.
+END
+
+Why this is clear enough to follow:
+The steps are listed in the order I normally complete them.
+The input explains what needs to be ready before I start.
+The IF/ELSE decision explains what I should do when the weather is bad.
+The output makes it clear what the successful result of the process looks like.
