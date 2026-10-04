@@ -1,0 +1,22 @@
+Student Name: Bemnet Kebede
+Name list: ["Ama", "Kofi", "Yaw"]
+
+Trace 1 - target "Kofi":
+1. Start with the list ["Ama", "Kofi", "Yaw"].
+2. Check "Ama": it does not match "Kofi".
+3. Check "Kofi": it matches the target.
+4. Output "Found" and stop searching.
+Result: Found
+
+Trace 2 - target "Efua":
+1. Start with the list ["Ama", "Kofi", "Yaw"].
+2. Check "Ama": it does not match "Efua".
+3. Check "Kofi": it does not match "Efua".
+4. Check "Yaw": it does not match "Efua".
+5. All names have been checked without finding the target.
+6. Output "Not found".
+Result: Not found
+
+Empty list input: []
+Empty list result:
+Error: list is empty
