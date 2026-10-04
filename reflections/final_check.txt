@@ -3,13 +3,13 @@ GitHub Username: bemnetSeifu
 Repository: SE103-Week4
 Repository URL: https://github.com/bemnetSeifu/SE103-Week4
 
-What a pull request asks teammates to do:
-A pull request asks teammates to review changes before they are merged into the main branch. It gives reviewers a chance to check the work, leave feedback, and confirm that the changes are ready to be merged.
+What I understand better about algorithms now:
+I understand that algorithms need clear and ordered steps to solve a problem. I understand how loops and decisions can be used to process inputs and produce an output. Writing pseudocode helps me think through the logic before writing actual code. I also understand that handling edge cases makes an algorithm more complete and reliable.
 
-Why branches and pull requests are used together:
-Branches allow developers to work on changes separately from the main branch. Pull requests then provide a place to review those changes before they are merged into main.
+How tracing changed my confidence:
+Tracing helped me understand how an algorithm works one step at a time. By checking each input against the expected result, I can find mistakes in the logic before coding it. It also helped me understand why the final output is correct.
 
-One thing that confused me in this project and how I solved it:
-One thing that confused me was the difference between the main and master branch names when setting up the repository. I checked which branch I was actually using with Git commands instead of assuming the branch name. I then continued the tasks using main and made sure the commits and remote branch matched it. I also reported the repository checker issue separately instead of repeatedly changing the repository.
+One pseudocode habit I will keep:
+I will keep writing clear, ordered steps and defining the input and output before writing the main logic. I will also make sure to handle important edge cases instead of only describing the normal situation.
 
 All required files are on main: Yes
